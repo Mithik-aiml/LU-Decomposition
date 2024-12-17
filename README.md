@@ -9,15 +9,15 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 ### step1:
-     Import numpy as np.
+Import numpy as np.
 ### step2:
-     Import lu from scipy.linalg.
+Import lu from scipy.linalg.
 ### step3:
-     Declare the array as A.
+Declare the array as A.
 ### step4:
-     Assign P,L,U (Pivot matrix,L matrix and U matrix) to lu of A.
+Assign P,L,U (Pivot matrix,L matrix and U matrix) to lu of A.
 ### step5:
-     print L and U
+print L and U
 
 ## Program:
 (i) To find the L and U matrix
