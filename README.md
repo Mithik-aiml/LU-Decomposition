@@ -60,10 +60,11 @@ print(solution)
 ```
 
 ## Output:
+i)
+![alt text](<Screenshot 2024-12-26 132549-1.png>)
 
-![alt text](<Screenshot 2024-12-16 073710.png>)
-
-![alt text](<Screenshot 2024-12-16 073726.png>)
+ii)
+![alt text](<Screenshot 2024-12-26 132654.png>)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
