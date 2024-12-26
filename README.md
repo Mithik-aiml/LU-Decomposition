@@ -22,11 +22,11 @@ ii)
 
 2. Get the input from user in the form of nested list to compute numpy array format and declare it for both the variables
 
-3. Step Create the variable to Use inputted array to compute of lu, factor of matrix varaible.
+3. Create the variable to Use inputted array to compute of lu, factor of matrix varaible.
 
-4. Step Create the new variable for a solve to compute of x variable and b' variable.
+4. Create the new variable for a solve to compute of x variable and b' variable.
 
-5. Steps Print the corresponding variable (solution) to get the output
+5. Print the corresponding variable (solution) to get the output
 ## Program:
 (i) To find the L and U matrix
 ```
