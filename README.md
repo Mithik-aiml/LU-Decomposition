@@ -18,15 +18,11 @@ i)
 4. print the the following  matrix
 
 ii)
-1. In second program can import lo factor and lu selve from python library as same as in second program.
-
-2. Get the input from user in the form of nested list to compute numpy array format and declare it for both the variables
-
-3. Create the variable to Use inputted array to compute of lu, factor of matrix varaible.
-
-4. Create the new variable for a solve to compute of x variable and b' variable.
-
-5. Print the corresponding variable (solution) to get the output
+1. Get necessary libraries.
+2. Get input for coefficient matrix (A) and constant vector (B).
+3. Perform LU decomposition on A using lu_factor.
+4. Solve the system using lu_solve with the decomposition result (X) and B.
+5. Print the solution.
 ## Program:
 (i) To find the L and U matrix
 ```
